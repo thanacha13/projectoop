@@ -71,7 +71,7 @@ public class ร้านโรตี extends javax.swing.JFrame {
 
             },
             new String [] {
-                "เมนูโรตี", "ราคา/ขิ้น", "จำนวน", "จำนวนราคา"
+                "เมนูโรตี", "ราคา/ชิ้น", "จำนวน", "จำนวนราคา"
             }
         ) {
             boolean[] canEdit = new boolean [] {
